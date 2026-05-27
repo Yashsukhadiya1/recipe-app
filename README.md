@@ -3,9 +3,9 @@
 A React app that lets you search for meal recipes using the [TheMealDB API](https://www.themealdb.com/).
 
 # Screenshots 
-![App Preview](public/screenshot1.png)
-![App Preview](public/screenshot2.png)
-![App Preview](public/screenshot3.png)
+![App Preview](public/Screenshot1.png)
+![App Preview](public/Screenshot2.png)
+![App Preview](public/Screenshot3.png)
 
 ## Features
 
